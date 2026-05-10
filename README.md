@@ -39,5 +39,7 @@
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chldyddnjs&show_icons=true&theme=dark)](https://github.com/chldyddnjs)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chldyddnjs&layout=compact&theme=dark)](https://github.com/chldyddnjs)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chldyddnjs&theme=dracula)](https://github.com/chldyddnjs)
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chldyddnjs&theme=dracula)](https://github.com/chldyddnjs)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chldyddnjs&theme=dracula)](https://github.com/chldyddnjs)
