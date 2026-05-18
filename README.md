@@ -37,7 +37,7 @@ AI부터 웹 서비스까지 다양한 도메인을 경험하며 성장하고 �
 | 🎤 [Ringle AI Tutor](https://github.com/chldyddnjs/ringle-aitutor) | GPT-4o SSE 스트리밍 + Whisper STT 기반 영어 학습 앱 | React, TypeScript, Ruby on Rails |
 | 📚 [StudiOn](https://github.com/chldyddnjs/StudiOn) | WebRTC 기반 실시간 화상 스터디 플랫폼 | React, TypeScript, Spring Boot, Kafka |
 | ⚖️ [법률 RAG 시스템](https://github.com/chldyddnjs/upstage_hackaton) | Solar LLM 기반 법률 문서 질의응답 (Upstage 해커톤) | Python, RAG |
-| 🏋️ [자세교정 헬스케어](https://github.com/chldyddnjs/graduate) | PoseNet 기반 운동 자세 분류 → Android 탑재 \| 학점 A | Python, TFLite, Android |
+| 🏋️ [자세교정 헬스케어](https://github.com/chldyddnjs/graduate) | PoseNet 기반 운동 자세 분류 → Android 탑재 | Python, TFLite, Android |
 
 ## 🎓 Education & Experience
 
